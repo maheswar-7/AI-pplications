@@ -1,0 +1,5 @@
+{
+  "name": "Merch & Image Magic",
+  "description": "An AI-powered tool to generate on-demand merchandise mockups from your logo and perform powerful image edits with simple text prompts, using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
